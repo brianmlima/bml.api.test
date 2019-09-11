@@ -1,0 +1,10 @@
+# Generated with apibuilderproject.rb at 10/09/2019 23:33:24
+settings:
+  code.create.directories: true
+code:
+  bml:
+    test:
+      version: 0.0.0
+      generators:
+        openapi:
+          target: src/test
